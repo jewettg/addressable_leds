@@ -3,7 +3,6 @@
 /// @example ColorPalette.ino
 
 #include <FastLED.h>
-
 #define LED_PIN     3
 #define NUM_LEDS    200
 #define BRIGHTNESS  255
